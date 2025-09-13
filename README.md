@@ -20,5 +20,5 @@ Este es un trabajo introductoria de ML....
 
 ## 🛠️Instalacion🛠️
 
-[![Video Introductorio](https://img.youtube.com/vi/CODIGO_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=22oUOztp-88)
+[![Video Introductorio](https://img.youtube.com/vi/CODIGO_DEL_VIDEO/0.jpg)](https://www.youtube.com/watch?v=ssMNCIUPOLI)
  
