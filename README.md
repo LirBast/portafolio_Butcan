@@ -1,6 +1,9 @@
 # portafolio_Butcan
 Portafolio para Pruebas de la clase
-[![Texto alternativo](images/imagen1.png)](https://www.youtube.com/)
+<a href="https://www.youtube.com/">
+  <img src="images/imagen1.png" alt="Texto alternativo" width="300">
+</a>
+
  
 - [📖 Descripción](#descripcion) 
 - [🚀 Características](#caracteristicas)
