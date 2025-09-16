@@ -6,17 +6,17 @@ Portafolio para Pruebas de la clase
 
  
 - [📖 Descripción](#descripcion) 
-- [🚀 Características](#caracteristicas)
-- [🛠️ Instalación](#instalacion)
+- [🚀 Proyecto 1](#caracteristicas)
+- [🛠️ Proyecto 2](#instalacion)
 - [Ejemplos](#ejemplos)
 - [Licencia](#licencia)
   
 ## 📖 Descripcion 📖
 Este es un trabajo introductoria de ML....
 
-## 🚀Caracteristicas🚀
--Caracteristica 1
--Caracteristica 2
+## 🚀Poryectos🚀
+- Proyecto 1
+- Proyecto 2
 
 ## 🛠️Instalacion🛠️
 
