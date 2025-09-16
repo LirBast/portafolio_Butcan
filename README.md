@@ -15,6 +15,7 @@ Portafolio para Pruebas de la clase
 Este es un trabajo introductoria de ML....
 
 ## 🚀Poryectos🚀
+[Modelos simples ML 🔗]()
 - Proyecto 1
 - Proyecto 2
 
